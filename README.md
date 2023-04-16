@@ -10,7 +10,7 @@ Please follow below steps to use the application.
 
 ## Overview
 
-Simple REST APIs are implemented using Java 8, Mavem Spring Boot 2.7.10
+Simple REST APIs are implemented using Java 8, Maven, Spring Boot 2.7.10
 
 #### Database file
 h2 db is used and data file is inside the project. Any update will be written in the same file.
